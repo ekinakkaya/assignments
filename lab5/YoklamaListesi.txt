@@ -1,0 +1,76 @@
+0. 21194025 Hakan Günak
+1. 21293925 Bora Can Gülcüler
+2. 21396030 Ahmet Emir Aksu
+3. 21495176 naz ulupınar
+4. 21595401 Osman Kutay Yağcı
+5. 21596896 Dicle Pınar KOÇOĞLU
+6. 21694133 Nazli Elis Cicek
+7. 21694567 Onur Fırat
+8. 21696138 Salih Usluca
+9. 21793916 Mete Bayhan
+10. 21794767 Eylül İpek Gümüş
+11. 21894189 Didem Çetin
+12. 21894323 serkan demir
+13. 21894550 Arda Erbaharlı
+14. 21894719 Sıla Gedik
+15. 21894990 Hilal İlbey
+16. 21895102 Yağmur Melis Karadağ
+17. 21895321 Burak Kocamanoğlu
+18. 21895616 Özkan Özbaş
+19. 21895626 ece ozcan
+20. 21895666 Kübra Özdemir
+21. 21895716 Nevzat Efe Özgül
+22. 21895855 Berk Sağlıcak
+23. 21896015 Ege Şahin
+24. 21896062 Bora Şanal
+25. 21896474 Aliye Yeşim Yaman
+26. 21896476 Begüm Yaman
+27. 21896686 Arda Yurtcu
+28. 21897099 Bulut Kalfazade
+29. 21897736 Berkay Ücük
+30. 21898397 ATA TÜRKAY
+31. 21940079 Hasan Berk
+32. 21993514 Begüm Zengin
+33. 21993657 Kerem Yılmaz
+34. 21993674 Utku Sahin
+35. 21993732 Mehmet CEYLAN
+36. 21994029 Işıl Altay
+37. 21994073 Bora Araz
+38. 21994170 Gökalp Ateş
+39. 21994393 Melih Beyit
+40. 21994401 Alper Tunga Bile
+41. 21994537 Nursena Cavlı
+42. 21994589 Sıla Cömertoğlu
+43. 21994730 Deniz Çırpan
+44. 21994740 Umut Çiloğlu
+45. 21994768 Pelin Nur ÇÖL
+46. 21994795 Sertaç Daştan
+47. 21994866 Hale Aslı Demirkoparan
+48. 21994890 Ayberk Deringöz
+49. 21994902 Hasan Emre Dinç
+50. 21994919 Batuhan Doğan
+51. 21994970 Batu Alperen Duran
+52. 21995168 Emre Ender Ersöz
+53. 21995231 Buğra Gazioğlu
+54. 21995250 Faruk Kaan Gezgin
+55. 21995510 Barış İkinci
+56. 21995532 serhat ege inanç
+57. 21995537 Mehmet Umut İNCEER
+58. 21995548 Anıl İpeksümer
+59. 21995712 Zeynep Karkıner
+60. 21995740 Berk Kaya
+61. 21995764 mert kayabaşı
+62. 21995897 Gürkan Kıymaz
+63. 21995900 Umut Deniz Kızılcı
+64. 21995916 İlkem Koca
+65. 21996379 Ege Arda Öztürk
+66. 21996471 MELİH SAĞLAM
+67. 21996544 ege sefertaş
+68. 21996568 Doğa Sarp Sezer
+69. 21997105 Yiğit Yarğı
+70. 21997287 Öncüm K. Yılmaz
+71. 21997351 İpek Yüksek
+72. 21997395 Kaan Kahraman
+73. 21997771 Yusuf Can Koç
+74. 21997841 Mert kadir Bülbün
+75. 21998232 Elifnur Benhür
